@@ -30,3 +30,5 @@ fh.each do |url|
         puts "Hatebu Count: " + count
     end
 end
+
+fh.close
